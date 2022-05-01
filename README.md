@@ -1,6 +1,6 @@
 # NYC Citi Bike Study
 
-[NYC Citi Bike Data](https://public.tableau.com/app/profile/christopher.snead/viz/Bikesharing_16480965883090/NYCBikesharing?publish=yes)
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/christopher.snead/viz/Bikesharing_16480965883090/NYCBikesharing?publish=yes)
 
 ## Overview
 This analysis focuses on creating visualizations in Tableau using data from [Citi Bike's New York City program](https://s3.amazonaws.com/tripdata/index.html) for an investment opportunity in a bikesharing program in Des Moines, IA. Although NYC and Des Moines are very different cities, the proposal is intended to highlight observations indicating the program to be a profitable venture.
